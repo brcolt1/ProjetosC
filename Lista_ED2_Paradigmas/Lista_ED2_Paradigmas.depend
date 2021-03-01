@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1592843400 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\lista_ed2_paradigmas\exercicio2.c
+	"progs.h"
+
+1592852895 c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\lista_ed2_paradigmas\progs.h
+	<stdio.h>
+	<stdlib.h>
+
+1592853054 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\lista_ed2_paradigmas\main.c
+	"progs.h"
+
+1592848070 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\lista_ed2_paradigmas\exercicio7.c
+	"progs.h"
+
+1592853772 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\lista_ed2_paradigmas\exercicio12.c
+	"progs.h"
+

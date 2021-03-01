@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581550442 source:/home/bruno/Documentos/Universidade/Programacao/Programas_treino/separando_string/main.c
+	<stdio.h>
+	<string.h>
+

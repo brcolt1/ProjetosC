@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1592497867 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking\exercicios\permutacoes.c
+	"progs.h"
+
+1592932335 c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking\exercicios\progs.h
+	<stdio.h>
+	<stdlib.h>
+
+1592932500 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking\exercicios\main.c
+	"progs.h"
+
+1592501515 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking\exercicios\combinacoes.c
+	"progs.h"
+
+1592502741 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking\exercicios\gerador_de_numeros.c
+	"progs.h"
+
+1592870722 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking\exercicios\n_rainhas.c
+	"progs.h"
+
+1592932327 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking\exercicios\troco_minimo.c
+	"progs.h"
+
+1592941308 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking e gulosos\main.c
+	"progs.h"
+
+1592941122 c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking e gulosos\progs.h
+	<stdio.h>
+	<stdlib.h>
+
+1592932698 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking e gulosos\combinacoes.c
+	"progs.h"
+
+1592932698 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking e gulosos\gerador_de_numeros.c
+	"progs.h"
+
+1593029085 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking e gulosos\n_rainhas.c
+	"progs.h"
+
+1592932698 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking e gulosos\permutacoes.c
+	"progs.h"
+
+1592941132 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\backtracking e gulosos\troco_minimo.c
+	"progs.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581631364 source:/home/bruno/Documentos/Universidade/Programacao/Programas_treino/Strings_ordem_alfabetica/main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

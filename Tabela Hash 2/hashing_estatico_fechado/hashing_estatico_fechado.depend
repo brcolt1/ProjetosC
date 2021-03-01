@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589242942 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\tabela hash\hashing_estatico_fechado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

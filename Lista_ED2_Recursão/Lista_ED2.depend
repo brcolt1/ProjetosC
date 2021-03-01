@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1585773905 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"programas.h"
+
+1584463340 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\ex6.c
+	"programas.h"
+
+1585773888 c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\programas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+
+1584463380 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\ex2_iii.c
+	"programas.h"
+
+1584465140 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\ex2_v.c
+	"programas.h"
+
+1584465665 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\ex2_vi.c
+	"programas.h"
+
+1584549103 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\ex12.c
+	"programas.h"
+
+1585083408 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\ex2_viii.c
+	"programas.h"
+
+1585174261 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\bolha.c
+	"programas.h"
+
+1585274570 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\mdc.c
+	"programas.h"
+
+1585770564 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\x_elevado_n.c
+	"programas.h"
+
+1585514983 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\inversao_string.c
+	"programas.h"
+
+1585527855 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\soma_produto_vetor.c
+	"programas.h"
+
+1585529806 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\palindromo.c
+	"programas.h"
+
+1585773932 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\lista_ed2\maxsubarraysum.c
+	"programas.h"
+

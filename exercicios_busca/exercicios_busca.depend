@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1589288131 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\exercicios_busca\busca_sequencial_sentinela.c
+	"algBusca.h"
+
+1589402112 c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\exercicios_busca\algbusca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589402073 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\exercicios_busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"algBusca.h"
+
+1589301746 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\exercicios_busca\busca_binaria.c
+	"algBusca.h"
+
+1589402051 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\exercicios_busca\busca_sequencial.c
+	"algBusca.h"
+

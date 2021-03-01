@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1589312897 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\bubblesort.c
+	"progs.h"
+
+1589410731 c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\progs.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1588290762 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\mergesort.c
+	"progs.h"
+
+1589458688 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\main.c
+	"progs.h"
+
+1589411844 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\quicksort.c
+	"progs.h"
+
+1588290683 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\funcoes_aux.c
+	"progs.h"
+
+1589312933 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\selectionsort.c
+	"progs.h"
+
+1588290751 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\heapsort.c
+	"progs.h"
+
+1589411316 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\insertionsort.c
+	"progs.h"
+
+1588290618 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\shellsort.c
+	"progs.h"
+
+1588349910 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\radixsort.c
+	"progs.h"
+
+1588293525 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\metodos_ordenacao\countingsort.c
+	"progs.h"
+

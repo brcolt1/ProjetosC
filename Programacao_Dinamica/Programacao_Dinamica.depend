@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1592516355 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\programacao_dinamica\fibonacci.c
+	"progs.h"
+
+1592596768 c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\programacao_dinamica\progs.h
+	<stdio.h>
+	<stdlib.h>
+
+1592597170 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\programacao_dinamica\main.c
+	"progs.h"
+
+1592597572 source:c:\users\brcol\documents\meus_documentos\universidade\programacao\programas_treino\c\programacao_dinamica\mochila.c
+	"progs.h"
+
