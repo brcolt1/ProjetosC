@@ -1,2 +1,2 @@
 # ProjetosReact
-Meus projetos utilizando React
+Meus projetos utilizando a linguagem C
